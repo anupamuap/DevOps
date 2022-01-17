@@ -8,8 +8,21 @@ Azure DevOps Terraform - https://marketplace.visualstudio.com/items?itemName=ms-
 
 GitHub Actions Terraform - https://github.com/hashicorp/setup-terraform
 
+
+
+
+
+
 Youtube Videos:
+--------------------------
 
 Less Jackson: https://www.youtube.com/channel/UCIMRGVXufHT69s1uaHHYJIA
 
 Azure Devops: https://www.youtube.com/c/AzureDevOps/featured
+
+
+
+Landing Zones Reference:
+------------------------------
+
+https://github.com/telstrapurple/AzureLandingZone
