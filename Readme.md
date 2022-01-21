@@ -8,6 +8,8 @@ Azure DevOps Terraform - https://marketplace.visualstudio.com/items?itemName=ms-
 
 GitHub Actions Terraform - https://github.com/hashicorp/setup-terraform
 
+Linked ARM Template : https://andrewmatveychuk.com/how-to-deploy-linked-arm-templates-from-private-azure-devops-repositories/
+
 
 
 
