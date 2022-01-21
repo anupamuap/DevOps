@@ -41,3 +41,5 @@ Other Articles:
 ---------------------------
 
 https://intellitect.com/azure-devops-nugets/
+
+AKS: https://docs.microsoft.com/en-us/azure/aks/quickstart-helm
