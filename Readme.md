@@ -34,3 +34,10 @@ Landing Zones Reference:
 https://github.com/telstrapurple/AzureLandingZone
 
 https://azure.microsoft.com/en-in/blog/creating-cloud-ready-environments-with-azure-landing-zones/
+
+
+
+Other Articles:
+---------------------------
+
+https://intellitect.com/azure-devops-nugets/
