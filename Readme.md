@@ -8,6 +8,8 @@ Azure DevOps Terraform - https://marketplace.visualstudio.com/items?itemName=ms-
 
 GitHub Actions Terraform - https://github.com/hashicorp/setup-terraform
 
+Pipelines in Depth : https://devblogs.microsoft.com/devops/announcing-general-availability-of-azure-pipelines-yaml-cd/
+
 
 
 
