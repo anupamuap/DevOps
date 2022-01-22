@@ -1,3 +1,7 @@
+
+
+
+
 Terraform download - https://www.terraform.io/downloads.html
 
 Azure Provider - https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs
@@ -10,6 +14,7 @@ GitHub Actions Terraform - https://github.com/hashicorp/setup-terraform
 
 Pipelines in Depth : https://devblogs.microsoft.com/devops/announcing-general-availability-of-azure-pipelines-yaml-cd/
 
+Hashicorp Learn : https://learn.hashicorp.com/   
 
 
 
