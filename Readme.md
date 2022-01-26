@@ -29,6 +29,8 @@ Automation:
 https://github.com/azureautomation
 https://www.youtube.com/watch?v=DgMJC9bWWrE
 
+Update Runbook: https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/automation/update-management/deploy-updates.md
+
 Youtube Videos:
 --------------------------
 
