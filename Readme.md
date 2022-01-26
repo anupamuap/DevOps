@@ -31,6 +31,8 @@ https://www.youtube.com/watch?v=DgMJC9bWWrE
 
 Update Runbook: https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/automation/update-management/deploy-updates.md
 
+https://www.thomasmaurer.ch/2019/10/how-to-manage-updates-for-azure-iaas-vms/
+
 Youtube Videos:
 --------------------------
 
