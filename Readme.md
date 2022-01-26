@@ -24,7 +24,10 @@ Linked Template : https://dev.to/azure/demystifying-arm-templates-linked-and-nes
 
 Linked ARM Template Devops: https://andrewmatveychuk.com/how-to-deploy-linked-arm-templates-from-private-azure-devops-repositories/
 
-
+Automation:
+------------------
+https://github.com/azureautomation
+https://www.youtube.com/watch?v=DgMJC9bWWrE
 
 Youtube Videos:
 --------------------------
