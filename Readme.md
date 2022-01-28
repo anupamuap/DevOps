@@ -57,3 +57,10 @@ Other Articles:
 https://intellitect.com/azure-devops-nugets/
 
 AKS: https://docs.microsoft.com/en-us/azure/aks/quickstart-helm
+
+
+Terraform:
+-------------------
+
+
+Structure : https://www.digitalocean.com/community/tutorials/how-to-structure-a-terraform-project
